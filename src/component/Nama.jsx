@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Gambar extends Component {
+export default class Nama extends Component {
     render() {
         return (
             <div>
-                <h2>Saya Hobi Main game</h2>
+                <h2>Nama : Intan Nabila Anwar</h2>
             </div>
         )
     }
